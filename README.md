@@ -1,6 +1,6 @@
-# 📊 Pinnacle Meta Ads Campaign Dataset – Marketing Analytics & Performance Optimization eda
+# 📊 Meta Ads Campaign Dataset – Marketing Analytics & Performance Optimization eda
 
-## tools : Python,numpy,pandas,matplotlib,seaborn,excel,pivot
+## Tools : Python,numpy,pandas,matplotlib,seaborn,excel,pivot
 
 ## 📌 Project Overview
 
